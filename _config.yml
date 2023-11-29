@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Adult-African-American-Fiction-Collection- 
+title: Adult African American Fiction Collection  
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A collection of adult fiction that reflects the African American Diaspora
 # description appears in meta tags and other locations
@@ -34,7 +34,7 @@ author: Antuan Hawkins, Naija Speight, and Quintina Richards
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: AdultAfricanAmericanFiction1
+metadata: AfricanAmericanAdultFiction1
 
 ##########
 # Site/Organization Branding 
